@@ -3,7 +3,7 @@
 ## Description
 This is the personal bio site of me, Emily DeWitt, a full stack web development student. This site shares information on the technologies I use, my path to programming, and examples of sites I have built.
 
-![Image of top section of website, photo of a watercolor diagram of three web pages](INSERT URL HERE "Personal Bio Site")
+![Image of top section of website, photo of a watercolor diagram of three web pages](https://raw.githubusercontent.com/emilykdewitt/personal-site-4/setup/screenshots/personal-site-top.png "Personal Bio Site")
 
 ## Features
 * Sidebar menu
@@ -30,6 +30,6 @@ $ git clone
 
 ### Screenshots:
 
-![Image of the website bottom of page.](INSERT URL HERE "Personal Bio Site (with my biographical information)")
+![Image of the website bottom of page.](https://raw.githubusercontent.com/emilykdewitt/personal-site-4/setup/screenshots/personal-site-middle.png "Personal Bio Site (with my biographical information)")
 
-![Image of the website from midway through the page.](INSERT URL HERE "Personal Bio Site (with my technologies and projects)")
+![Image of the website from midway through the page.](https://raw.githubusercontent.com/emilykdewitt/personal-site-4/setup/screenshots/personal-site-bottom.png "Personal Bio Site (with my technologies and projects)")
